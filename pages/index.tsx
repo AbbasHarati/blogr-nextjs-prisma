@@ -15,6 +15,7 @@ export const getStaticProps: GetStaticProps = async () => {
         email: "burk@prisma.io",
       },
     },
+    
   ]
   return { 
     props: { feed }, 
